@@ -1,0 +1,9 @@
+{
+    
+    "appartementTypes": [
+        "Flat", "Villa", "Accommodation"
+    ],
+    "equipmentType": [
+        "Refrigerator", "TV", "PC", "Smartphone", "Drone", "Amplifier"
+    ]
+}
